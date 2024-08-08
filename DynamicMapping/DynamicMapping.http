@@ -1,0 +1,11 @@
+@DynamicMapping_HostAddress = http://localhost:5194
+
+GET {{DynamicMapping_HostAddress}}/reservation/xml-to-json
+Accept: application/json
+
+###
+
+GET {{DynamicMapping_HostAddress}}/reservation/json-to-xml
+Accept: application/xml
+
+###

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hG/Mex95BSo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srees\\source\\repos\\DynamicMapping\\DynamicMapping\\DynamicMapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srees\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\srees\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\srees\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
