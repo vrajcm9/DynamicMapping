@@ -21,7 +21,7 @@
 
 - **Endpoints for Conversion Testing**
   - JSON to XML: `http://localhost:5194/reservation/json-to-xml`
-  - XML to JSON: `http://localhost:5194/reservation/json-to-xml`
+  - XML to JSON: `http://localhost:5194/reservation/xml-to-json`
 
 - **Extensive Testing Endpoint**
   - General conversion endpoint: `http://localhost:5194/reservation/convert`
